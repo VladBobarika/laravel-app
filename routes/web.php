@@ -4,7 +4,7 @@ use App\Http\Controllers\SiteController;
 use App\Http\Controllers\ProductController;
 use Illuminate\Support\Facades\Route;
 use App\Models\Product;
-use App\Models\Category;
+use App\Models\Category; 
 
 
 /*
